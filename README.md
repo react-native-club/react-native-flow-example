@@ -21,6 +21,8 @@ STEPS:
 
 - you should see ```No errors``` at the bottom
 
+- to type check a file you need to add ```/* @flow */```at the top 
+
 - add some function to ```index.ios.js``` for example:
 
 ```js
@@ -60,3 +62,9 @@ References:
 - add Flow to any Redux application - https://blog.callstack.io/typed-redux-2aa8bff926ff#.nkj9ah5v2
 
 - advance setup - https://flowtype.org/docs/advanced-configuration.html#_
+
+- configure flow with atom and nuclide - https://egghead.io/lessons/react-setup-nuclide-to-use-flow-and-eslint-mac
+
+- egghead video about primitive types - https://egghead.io/lessons/javascript-primitive-types-in-flow
+
+- egghead video start with flow - https://egghead.io/lessons/javascript-up-and-running-with-facebook-flow-for-typed-javascript
