@@ -1,0 +1,3 @@
+rootProject.name = 'FlowExample'
+
+include ':app'
